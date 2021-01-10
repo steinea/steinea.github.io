@@ -7,5 +7,5 @@ title: Blog
 
 
    {% for post in site.posts %}
-      <br>{{ post.date }} <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+      <br>{{ post.date | date_to_long_string }}	 <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
    {% endfor %}
