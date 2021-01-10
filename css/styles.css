@@ -13,14 +13,14 @@ nav {
 }
 
 nav ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: "EB Garamond", serif;
     padding: 0px;
     list-style: none;
 }
   
 nav ul li {
     display: inline;
-    margin-right: 0;
+    margin: 20px;
 }
 
 ul.posts {
@@ -33,9 +33,4 @@ a {
 
 h1 {
   text-align: center;
-}
-
-h5 {
-  font-weight: normal;
-  font-style: italic;
 }
