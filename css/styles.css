@@ -1,6 +1,8 @@
 body {
     font-family:'Helvetica', 'Sans-Serif';
-    margin: 60px auto;
+    margin: auto;
+    float: none;
+    text-align: justify;
 }
 
 nav ul {
@@ -16,4 +18,8 @@ nav ul li {
 
 a {
     text-decoration: none;
+}
+
+h1 {
+  text-align: center;
 }
