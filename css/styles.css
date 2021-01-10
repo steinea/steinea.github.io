@@ -6,11 +6,9 @@ body {
 }
 
 nav {
+    margin: auto;
     float: none;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    text-align: center;
 }
 
 nav ul {
@@ -21,7 +19,6 @@ nav ul {
   
 nav ul li {
     display: inline;
-    margin-right: 20px;
 }
 
 a {
