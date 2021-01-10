@@ -24,6 +24,7 @@ nav ul li {
 
 ul.posts {
     list-style: none;
+    margin-left: 0;
 }
 
 a {
