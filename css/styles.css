@@ -22,11 +22,6 @@ nav ul li {
     margin: 5px;
 }
 
-ul.posts {
-    <!--list-style: none;-->
-    margin-left: 0;
-}
-
 a {
     text-decoration: none;
 }
