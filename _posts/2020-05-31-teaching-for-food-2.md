@@ -34,8 +34,7 @@ Teaching must be unshackled, released from its slavery, returned to its study. T
 
 [^2]: These ideas are drawn from Stefano Harney and Fred Moten, *The Undercommons: Fugitive Planning and Black Study* (Wivenhoe, UK: Minor Compositions, 2013), 27.
 
-[^3]: Emmanuel Levinas, *Totality and Infinity: An Essay on Exteriority*, trans. Alphonso Lingis
-(Pittsburgh, PA: Duquesne University Press, 1969), 69-70.
+[^3]: Emmanuel Levinas, *Totality and Infinity: An Essay on Exteriority*, trans. Alphonso Lingis (Pittsburgh, PA: Duquesne University Press, 1969), 69-70.
 
 [^4]: Levinas, *Totality and Infinity*, 69.
 
@@ -43,13 +42,11 @@ Teaching must be unshackled, released from its slavery, returned to its study. T
 
 [^6]: Levinas, *Totality and Infinity*, 72.
 
-[^7]: Michel de Certeau, *The Practice of Everyday Life*, trans. Steven F. Rendall (Berkeley,
-CA: University of California Press, 1988).
+[^7]: Michel de Certeau, *The Practice of Everyday Life*, trans. Steven F. Rendall (Berkeley, CA: University of California Press, 1988).
 
 [^8]: François Laruelle, *Philosophies of Difference: A Critical Introduction to Non-Philosophy*, trans. Rocco Gangle (London, UK: Continuum, 2010), 109.
 
-[^9]: Quentin Meillassoux, *After Finitude: An Essay on the Necessity of Contingency*, trans.
-Ray Brassier (London, UK: Continuum, 2009), 79.
+[^9]: Quentin Meillassoux, *After Finitude: An Essay on the Necessity of Contingency*, trans. Ray Brassier (London, UK: Continuum, 2009), 79.
 
 [^10]: Meillassoux, *After Finitude*, 79-80.
 
