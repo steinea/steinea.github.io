@@ -1,9 +1,7 @@
 ---
+layout: post
 title: Teaching for Food
-subtitle:
-author: Eric Stein
-date: April 20, 2018
-csl: chicago-fullnote-bibliography.csl
+date: 2018-04-20
 ---
 
 > *The moment of teaching for food is therefore often mistakenly taken to be a stage, as if eventually one should not teach for food. If the stage persists, there is a social pathology in the university. But if the teaching is successfully passed on, the stage is surpassed, and teaching is consigned to those who are known to remain in the stage, the sociopathological labor of the university.* —Stefano Harney and Fred Moten, *The Undercommons*, 27.[^1]
