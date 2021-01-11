@@ -58,8 +58,7 @@ Galloway like to play with the uncanniness of texture, entropy, cryptography. To
 
 [^13]: Kevin Lande, "Do you compute?," Aeon, April 11, 2019, <https://aeon.co/essays/your-brain-probably-is-a-computer-whatever-that-means>.
 
-[^14]: Alexander Galloway, "Anti-Computer," March 19, 2018,
-<http://cultureandcommunication.org/galloway/anti-computer>, n.p.
+[^14]: Alexander Galloway, "Anti-Computer," March 19, 2018, <http://cultureandcommunication.org/galloway/anti-computer>, n.p.
 
 [^15]: Galloway, "Anti-Computer," n.p.
 
