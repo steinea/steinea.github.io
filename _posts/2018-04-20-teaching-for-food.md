@@ -6,8 +6,6 @@ date: 2018-04-20
 
 > *The moment of teaching for food is therefore often mistakenly taken to be a stage, as if eventually one should not teach for food. If the stage persists, there is a social pathology in the university. But if the teaching is successfully passed on, the stage is surpassed, and teaching is consigned to those who are known to remain in the stage, the sociopathological labor of the university.* —Stefano Harney and Fred Moten, *The Undercommons*, 27.[^1]
 
-
-
 There are many things I could write here about the undertaking of a graduate degree. But these remarks of Harney and Moten swelled within my mind, stuck to my fingers, refusing to be ignored. *Don’t stop teaching for food*. This is a dictum that has driven me since my first semester in the Master of Arts in Interdisciplinary Humanities at TWU.
 
 This is not, however, to say that my *drive* has been without contradiction. While feverishly completing readings and assignments I battled for funding and the acceptance of my work, seeking the recognition of the academy I had so recently joined. *Will you let me speak? Will you publish my paper? Will you let me pass beyond this stage?* I was forced to accept this hunger as a necessary phase in my ‘hero's journey,’[^2] so positioning myself within the privileged lineage of the academy.
