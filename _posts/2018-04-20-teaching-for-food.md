@@ -28,7 +28,7 @@ To not stop teaching for food is to refuse alienation, to refuse to be separated
 
 To not stop teaching for food is to be “unprofessional,” to be “more than professional,” to “exceed the profession,” to “exceed and by exceeding escape.”[^8] To not stop teaching for food is for us to take back our lives.[^9]
 
-### Notes
+#### Notes
 
 [^1]: Stefano Harney and Fred Moten, The Undercommons: Fugitive Planning and Black Study (Wivenhoe, UK: Minor Compositions, 2013).
 
