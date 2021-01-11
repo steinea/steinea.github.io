@@ -1,6 +1,7 @@
 body {
     max-width: 600px;
-    margin: 20px;
+    margin: auto;
+    padding: 20px;
     float: none;
     text-align: justify;
     font-family: "EB Garamond", serif;
