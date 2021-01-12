@@ -13,12 +13,12 @@ nav {
     text-align: center;
 }
 
-nav ul {
+nav ul, footer ul {
     padding: 0px;
     list-style: none;
 }
   
-nav ul li {
+nav ul li , footer ul li {
     display: inline;
     margin: 5px;
 }
