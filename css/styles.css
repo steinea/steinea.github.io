@@ -13,12 +13,28 @@ nav {
     text-align: center;
 }
 
-nav ul, footer ul {
+nav ul {
     padding: 0px;
     list-style: none;
 }
-  
-nav ul li , footer ul li {
+
+nav ul li {
+    display: inline;
+    margin: 5px;
+}
+
+footer {
+    margin: auto;
+    float: none;
+    text-align: center;
+}
+
+footer ul {
+    padding: 0px;
+    list-style: none;
+}
+
+footer ul li {
     display: inline;
     margin: 5px;
 }
