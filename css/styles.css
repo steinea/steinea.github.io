@@ -23,22 +23,6 @@ nav ul li {
     margin: 5px;
 }
 
-footer {
-    margin: auto;
-    float: none;
-    text-align: center;
-}
-
-footer ul {
-    padding: 0px;
-    list-style: none;
-}
-
-footer ul li {
-    display: inline;
-    margin: 5px;
-}
-
 a {
     text-decoration: none;
 }
