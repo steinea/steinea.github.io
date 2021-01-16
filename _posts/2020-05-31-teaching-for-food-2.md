@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Teaching for Food, 2: Not to Be Called Rabbi"
+title: Teaching for Food, 2
+subtitle: Not to Be Called Rabbi
 date: 2020-05-29
 ---
 
