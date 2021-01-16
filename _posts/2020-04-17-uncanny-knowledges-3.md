@@ -7,6 +7,8 @@ date: 2020-04-17
 
 In this moment, in this placing of fingertips to keys, I have only images, citations. There is no cohesion of mind, breath, voice. But, perhaps, how better to begin? To annihilate the mind, or rather, to  annihilate its computational figuration, to reverse the cybernetic elision of ergodic thought—this is the labour to be performed.
 
+<br>
+
 #### 2
 
 Spacing is ethical. The remove of transcendental subjectivity is not spacing. Transcendental subjectivity is "a hole of being at the heart of Being"[^1]— empty, weightless, frictionless presence, a nothing without potency, radical nihility as the punctual, puncturing ruler of *what is.*[^2] This is the for-itself before its factical imbrication with the in-itself,[^3] the structure of subjectivity without its world, trapped in the brackets of the *epoché*.[^4]
@@ -15,11 +17,15 @@ But, to say *before* of such a being (the self-determined and determining for-it
 
 The activity of the for-itself is not the activity of an unmoored agency but the "*conserv[ation] within itself [of] a permanent activity of individuation*"—the very work, the ergodicity, of being.[^12] "*The living individual is a system of individuation, an individuating system and a system individuating itself.*"[^13] The "in-itself-for-itself" is this very structure, the becoming of individual-environment in co-originary dependence and reciprocal generation.[^14]
 
+<br>
+
 #### 3
 
 The measure of nothingness is never null.[^15] The preindividual, being without phase (being prior to individuation), is "less and more than one,"[^16] refusing the law of the excluded middle.[^17] This irreconcilable logic is preserved in the subject as its uncanny, blasphemous, illegitimate understanding,[^18] its "fugitivity" and "criminality,"[^19] which is in itself a kind of creativity, a working-through, an "intra-action"[^20] of the in-itself and the for-itself in their perpetual, fecund hyphenation.[^21]
 
 The transcendental subject, however, always seeks to maintain itself in a unity without contamination, in the purity of nihilating identity. Its power consists in the monologization of its original plurality,[^22] the erasure of its citations, the reduction to singularity of the "countless ways of 'making do'"[^23] and "modes of existence"[^24] that constitute tactile, haptic subjectivity.[^25] The transcendental subject refuses the contingency and compromise of "situation"[^26] in order to found itself in a "proper place."[^27]
+
+<br>
 
 #### 4
 
@@ -31,9 +37,13 @@ The specularity of modernist space is abolished; its "emptiness here is absolute
 
 Indeed, in postmodern hyperspace, this whole abstract system of exchange, the "imaginary of representation",[^42] which previously allowed for the commutation of maps and territories, collapses in on itself. *What is* shows itself to be a baroque, mobius terrain,[^43] with spaces of nearness and withdrawal productive in their geometry of specific forms and processes of becoming (that is, forms and processes of individuated and individuating being)—including the semiotic array of maps and territories as different but interrelated "segmentations" of the self-same "pulp"[^44] or "subject matter".[^45] The "miniature theatre" of the mind,[^46] the so called *mind's eye*, that former support of the representational imaginary, is merely a misleading metaphor. And so, tactility succeeds specularity. The philosophy of the eye becomes the philosophy of the hand, which is just another way of restoring philosophy to the body, and so, reinserting the eye in its socket.
 
+<br>
+
 #### 5
 
 The socket surrounds. The monological fortress cannot withstand the onslaught of this "surround,"[^47] finds itself already embroiled in the "call and response" that precedes it[^48] and makes a "claim" upon it,[^49] a claim which is, at its most immediate, the "*internal resonance*"[^50] of the lived body in the plurality of its self-exceeding relations—social, historical, ecological. The tyrannical, blazing eye is dethroned, its power revealed to be nothing but the authorial and authoritative consolidation of a myriad of skills in a proper place.
+
+<br>
 
 #### 6
 
@@ -49,21 +59,29 @@ This transformation is the "magnification/reduction phenomenon," a phenomenon th
 
 The technologized, transcendental eye is an *inclination*, a suggestive structure, a material teleology. In other words, it effects an "epistemic organization of perception"[^61], an "inscription" of its own abstracted properties in space, a process that will, eventually, render "planet earth [itself] ... a satellite," and the very "terrestrial principle of reality ... eccentric, hyperreal, and insignificant."[^62] The eye breaks the shackle of the socket, departs from the body, becoming the very principle of modernity: orbital eye, nuclear god, modelized divinity.
 
+<br>
+
 #### 7
 
 And yet, the blazing eye is dethroned by the self-same conditions that give it rise. We seek a new sense, a sense without propriety. What are the skills of becoming, the vectors of individuation, the caverns of intimacy, that we discover here, emancipated from the "metaphor-metaphysic" of transcendental vision?[^63]
 
 The eye fears the socket because it fears the banality, the indebtedness,[^64] the illegitimacy[^65] of its origin, an origin without innocence or wholeness, an origin irresolvable to "deathly oneness."[^66] The socket tells the eye that it is "fully implicated in the world," a "cop[y] without original[],"[^67] just one among a plurality of skillful entanglements. The collapse of the imaginary of representation is a *viral* collapse—"deterrence"[^68] gives way to proliferation and acceleration, the whole satellary of models crashing down upon the earth: scattering, swarming, infecting.[^69] This is the "hyperreal sociality" of our postmodern hyperspace—the hypersurface of individuation.[^70] The absolute surface, the radical interior of *what is* requires new methods of navigation.
 
+<br>
+
 #### 8
 
 There is a "counterform" antedating the technology of the eye and its orbital inscription.[^71] Following the Pacific voyagers, the immanent satellary demands a "relativistic" and "dynamic" mode of perception that has no need for the abstraction of the bird's-eye and the calculative logic of instruments.[^72] This mode of perception utilizes "natural complexes," "swell patterns," "chord[s]" of sense running through "locally confused" domains, and "parallels" of signs rather than fixed referents to traverse the artificial *world grid* of the western mentality.[^73] The intent of presenting this counterform is not to "romanticize Polynesian navigation,"[^74] to claim the *place* of the other, but rather to demonstrate that there exists an embodied pragmatics, a tactile hermeneutics, that is already suited for our postmodern situation.
+
+<br>
 
 #### 9
 
 Spacing is ethical because spacing is about *being with*, and more so, about *making with*.[^75] *Spacing* is the skillful, tactical traversal of a domain, as opposed to the powerful, strategic *placing* that is made possible by transcendental remove.[^76] Spacing is relativistic and dynamic navigation.
 
 The tactics of spacing include "reading" and "weaving," "coalition" and "coupling", "design" and "play"—all of which is to say that the tactics of spacing is a new *textuality*, a writing that understands without naïveté the co-constitution of myth and tool, an eccentric, errant "heteroglossia."[^77] This is the writing, the semiotic navigation, that the hypersurface necessitates.
+
+<br>
 
 #### 10
 
@@ -76,6 +94,8 @@ In the play of writing we recognize that the pure communication of the voice, of
 The dissolution of the voice does not, however, entail the triumph of nihilistic *parody*. The possibility of parody is in fact a possibility of the modernist paradigm ("modernism" as the loosely organized multi-century period we know as *modernity*), which depends upon the "existence of normal language, of ordinary speech, of the linguistic norm" for its vitality.[^84] The "peculiar or unique style[s]" of the great writers find their subsistence in the subject of modernity, their substrate in the eye, their motive in the voicing of that point-of-view. The "modernist aesthetic is in some way organically linked to the conception of a unique self and private identity, a unique personality and individuality, which can be expected to generate its own unique vision of the world and to forge its own unique, unmistakable style."[^85] But, as we have already seen, the transcendental subject—the eye-voice-self complex—is an ideology, a metaphor-metaphysic, "a thing of the past ... [that] never really existed" (never existed *in fact*, though actions were certainly performed under its name) "in the first place."[^86] The play of postmodern hyperspace must not be mistaken for *parody*.
 
 If "the experience and the ideology of the unique self ... is over and done with ... [what are] the artists and writers of present period ... supposed to be doing?"[^87] The coupling of *eye* and *voice*, a coupling that elides its own contingency by way of the metaphor of *mind*, disintegrates. What recourse does the writer, the theorist, the postmodern subject have? Pastiche,[^88] poaching,[^89] fusion,[^90] hybridity,[^91] magic,[^92] reparation,[^93] improvisation,[^94] world-making[^95]—the fall of the eye-voice-self does, in fact, make way for a surplus of tactics, a proliferation of modes, an excess of possibilities, and with them, a distinctly plural perspective, a metaphor-metaphysic of the *multiple*.
+
+<br>
 
 #### 11
 
@@ -92,6 +112,8 @@ For Lacan, the passage from Cartesian *cogito* to the phenomenological *cogito* 
 Lacan nears the perspective we seek but does not go far enough. He is trapped in an *arboreal monism*, barred from a more fecund terrain by the very *letter* he so *insistently* inscribes.[^108] The upsurge of the in-itself-for-itself is the no-thing that is individuation, the *in*-sistence of *what is* before the *ex*-istence of any individuated being. So concerned with his analytic framework, Lacan does not broach the problem of ontogenesis, the very possibility of *any such framework*, permitting his *Real* to remain a looming monolith, a sublime background for the free-floating significations of the subject. The preindividual void, however, as we have presented it here, is like a "supersatured solution," a "metastable system that is filled with potentials."[^109] So, if we ask the unasked question of Lacan's metaphysics, *how should the Real be structured so that it allows for the emergence of subjectivity*, we must respond that the real, the in-itself, the void, the preindividual, is *multiple*, and that its individuations are multiple as well—and irreducibly so.[^110]
 
 Lacan's subject remains transcendental, modernist, spectacular, removed. It is for us to articulate the plurality of modes that subjectivity might take in its stead, tracing the becomings whereby the multiplicity of preindividual being is preserved in individuated reality.
+
+<br>
 
 #### 12
 
@@ -122,6 +144,8 @@ Eco usefully summarizes the "metaphysics" entailed by such a figure with his own
 > The characteristics of a rhizomatic structure are the following: (a) Every point of the rhizome can and must be connected with every other point. (b) There are no points or positions in a rhizome; there are only lines (this feature is doubtful: intersecting lines make points). (c) A rhizome can be broken off at any point and reconnected following one of its own lines. (d) The rhizome is antigenealogical. (e) The rhizome has its own outside with which it makes another rhizome; therefore, a rhizomatic whole has neither outside nor inside. (f) A rhizome is not a calque but an open chart which can be connected with something else in all of its dimensions; it is dismountable, reversible, and susceptible to continual modifications. (g) A network of trees which open in every direction can create a rhizome (which seems to us equivalent to saying that a network of partial trees can be cut out artificially in every rhizome). (h) No one can provide a global description of the whole rhizome; not only because the rhizome is multidimensionally complicated, but also because its structure changes through the time; moreover, in a structure in which every node can be connected with every other node, there is also the possibility of contradictory inferences: if *p*, then any possible consequence of *p* is possible, including the one that, instead of leading to new consequences, leads again to *p*, so that it is true at the same time both that *if p, then q* and that *if p, then non-q*. (i) A structure that cannot be described globally can only be described as a potential sum of *local* descriptions. (j) In a structure without outside, the describers can look at it only by the inside; as Rosenstiehl (1971, 1980) suggests, a labyrinth of this kind is a *myopic algorythm*; at every node of it no one can have the global vision of all its possibilities but only the local vision of the closest ones: every local description of the net is a *hypothesis*, subject to falsification, about its further course; in a rhizome blindness is the only way of seeing (locally), and thinking means to *grope one's way*. This is the type of labyrinth we are interested in.[^144]
 
 The one metaphor not included in this encyclopedic-rhizomatic-analogic metaphysic is the one that this essay set out to provide: the *intestine*. The intestine and the brain are homologous in their appearance but distinct in function, and yet, this homology, this figure of the gut-mind, points us to the rhizomatic, contingent structure of the brain, barring us from regression to the cybernetic model that always seeks to elide its own matter. Piled upon itself, a burrow in the subject, space of movement and supply, the intestine points to the *ergodicity* of individuation and the *groping along* of thought. The intestine helps constructs for the subject a tactile self-knowledge, a *felt experience of one's own body,* a feeling that includes within itself opaque operations beyond the control of any computational, transcendental director.
+
+<br>
 
 #### 13
 
