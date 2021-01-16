@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "From the Laboratory of Ideas: Ludic Philosophy"
+title: From the Laboratory of Ideas
+subtitle: Ludic Philosophy
 date: 2019-02-25
 ---
 

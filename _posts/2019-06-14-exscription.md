@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Exscription: A Fragment"
+title: Exscription
+subtitle: A Fragment
 date: 2019-06-14
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Uncanny Knowledges, 3: Toward an Intestinal Thought"
+title: Uncanny Knowledges, 3
+subtitle: Toward an Intestinal Thought
 date: 2020-04-17
 ---
 #### 1

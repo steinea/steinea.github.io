@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Uncanny Knowledges, 2: Against the Computational Model"
+title: Uncanny Knowledges, 2
+subtitle: Against the Computational Model
 date: 2020-01-21
 ---
 

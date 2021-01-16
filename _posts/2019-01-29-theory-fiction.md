@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Theory-Fiction: Tactics and Extravagance"
+title: Theory-Fiction
+subtitle: Tactics and Extravagance
 date: 2019-01-29
 ---
 
