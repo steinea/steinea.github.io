@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Ludic Philosophy, 2
-subtitle: Anarcho-Formalism[^1]
+subtitle: Anarcho-Formalism
 date: 2021-02-10
 ---
+"James Clifford once described [Hayden] White as an 'anarcho-formalist.' The formalism was more visible than the anarchism but no less important. White was not naive enough to believe that thinkers were free to imagine any damn thing they liked, thereby recreating the world according to their desires. As he saw it, thinking tended to fall into a narrow range of forms, tropes, narrative structures. As critical as he was of history’s pretensions to be an objective science, there was more than a bit of the scientist, even the mad scientist, in his investigation of thought’s inescapable formality."[^1]
 
 "The function of this center was not only to orient, balance, and organize the structure---one cannot in fact conceive of an unorganized structure---but above all to make sure that the organizing principle of the structure would limit what we might call the *play* of the structure" (Derrida).[^2]
 
@@ -27,7 +28,7 @@ date: 2021-02-10
 
 #### Notes
 
-[^1]: The construction "anarcho-formalist" I receive from James Clifford, via Bruce Robbins, "Emancipation from the Burden of History: On Hayden White, 1928–2018," *n+1*, March 8, 2018, <https://nplusonemag.com/online-only/online-only/emancipation-from-the-burden-of-history/>.
+[^1]: Bruce Robbins, "Emancipation from the Burden of History: On Hayden White, 1928–2018," *n+1*, March 8, 2018, <https://nplusonemag.com/online-only/online-only/emancipation-from-the-burden-of-history/>.
 [^2]: Jacques Derrida, "Structure, Sign and Play in the Discourse of the Human Sciences," in *Writing and Difference*, 351-70, trans. Alan Bass (London, UK: Routledge, 2001).
 [^3]: Donna J. Haraway, *A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century* (1985), repr. *Manifestly Haraway*, 3-90 (Minneapolis, MN: University of Minnesota Press, 2016), 30.
 [^4]: Eric Zimmerman, "Manifesto for a Ludic Century," *Kotaku*, September 9, 2013, <https://kotaku.com/manifesto-the-21st-century-will-be-defined-by-games-1275355204>.
