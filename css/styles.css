@@ -34,3 +34,19 @@ h1 {
 h2 {
   text-align: center;
 }
+
+/* Light mode by Davy de Vries */
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: white;
+        color: black;
+    }
+}
+
+/* Dark mode by Davy de Vries */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
