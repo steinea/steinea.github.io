@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ludic Philosophy, 2
-subtitle: Anarcho-Formalism^[The construction "anarcho-formalist" I receive from James Clifford, via Bruce Robbins, "Emancipation from the Burden of History: On Hayden White, 1928–2018," *n+1*, March 8, 2018, <https://nplusonemag.com/online-only/online-only/emancipation-from-the-burden-of-history/>.]
+subtitle: Anarcho-Formalism
 date: 2021-02-10
 ---
 
