@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Idea of the Gamer
-subtitle: Introduction to Amanda Phillips' _Gamer Trouble_
+subtitle: Introduction to Amanda Phillips' Gamer Trouble
 date: 2021-03-25
 ---
 
