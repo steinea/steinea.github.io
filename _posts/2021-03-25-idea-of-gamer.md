@@ -50,7 +50,7 @@ For myself, a precariously employed university worker, this conception of turbul
 [^21]: Phillips, *Gamer Trouble*, 10.
 [^22]: James Ash, *The Interface Envelope: Gaming, Technology, Power* (London, UK: Bloomsbury, 2015).
 [^23]: Phillips, *Gamer Trouble*, 13-14. I find this move especially interesting because these three terms are, for good reason, frequently criticized by Cameron Kunzelman and Michael Lutz on their podcast [*Game Studies Study Buddies*](http://rangedtouch.com/category/gamestudiesstudybuddies/). Phillips, via Ash, provides us with the passage whereby we might leave racist frameworks and psychologically specious ideas behind without denying the root experience which they tried to formalize---the "sense of separation" in gameplay.
-[^24]: Phillips, *Gamer Trouble*, 14. This idea of the "interface envelope" is especially resonant with Maurice Merleau-Ponty's notion of "insertion." See *Phenomenology of Perception*, trans. Donald A. Landes (Abingdon, UK: Routledge, 2012 [1943]).
+[^24]: Phillips, *Gamer Trouble*, 14. This idea of the "interface envelope" is especially resonant with Maurice Merleau-Ponty's notion of "insertion." See *Phenomenology of Perception*, trans. Donald A. Landes (Abingdon, UK: Routledge, 2012 [1945]).
 [^25]: Phillips, *Gamer Trouble*, 16.
 [^26]: Phillips, *Gamer Trouble*, 16.
 [^27]: Phillips, *Gamer Trouble*, 16.
