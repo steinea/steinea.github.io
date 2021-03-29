@@ -67,7 +67,6 @@ The additional claim that I made with respect to the Pythagoreans was that, in t
 [^24]: Waterfield, *The First Philosophers*, 36.
 [^25]: Heraclitus, F55, F56, and F58, in Waterfield, *The First Philosophers*, 45-46. These are quite clearly "authoritarian" rather than "minoritarian" statements.
 [^26]: As Jacques Rancière powerfully argues, politics is about the "distribution of the sensible," the determination of what is visible and thus intelligible to the system, and what is not. 'Common sense' politics is, in fact, not politics at all but *policing*, while proper (capital P) Politics is an "intervention" in the police order. See Jacques Rancière, *The Politics of Aesthetics* (2000), trans. Gabriel Rockhill (London, UK: Bloomsbury, 2013), 7, xiv.
-For instance, the "there are only two genders" meme uses specious 'common sense' as the *denial* of politics to deny the *saying of* and thus *making visible of* what is.
 [^27]: Meillassoux, *After Finitude*, 27.
 [^28]: Bruno Latour and Steve Woolgar, *Laboratory Life: The Construction of Scientific Facts* (Princeton, NJ: Princeton University Press, 1986 [1979]).
 [^29]: Isabelle Stengers, "Reclaiming Animism," *e-flux* 36 (July 2012), <https://www.e-flux.com/journal/36/61245/reclaiming-animism/>.
