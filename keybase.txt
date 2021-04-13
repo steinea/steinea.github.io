@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/steinea
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://steinea.github.io
+  * I am steinea (https://keybase.io/steinea) on keybase.
+  * I have a public key ASAo4guD_nCTROkNg0-bNTtq_ZlvaebeAwArcyKyxzajyAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012028e20b83fe709344e90d834f9b353b6afd996f69e6de03002b7322b2c736a3c80a",
+      "host": "keybase.io",
+      "kid": "012028e20b83fe709344e90d834f9b353b6afd996f69e6de03002b7322b2c736a3c80a",
+      "uid": "061e8844da217e43e29a317a1dc39919",
+      "username": "steinea"
+    },
+    "merkle_root": {
+      "ctime": 1618340864,
+      "hash": "5a29cd3e7b1b375e95c054a7e90e89e224f97993e10a4a02f601793abae4dd7712af07eb6ba607ea5c7936aca7293e98d45736f9fdab22faf3403b0429852447",
+      "hash_meta": "f7e4367fc3a23c1269dd0fdeffb99683ae284f3dea42c2a1c63b1e6d6565492d",
+      "seqno": 19623110
+    },
+    "service": {
+      "entropy": "d4YOcL7p+Yb6q38a1Nl8GosB",
+      "hostname": "steinea.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1618340882,
+  "expire_in": 504576000,
+  "prev": "b8c33fcb02256b844b681ca0c2b42ba7ed74f4cd562630db59c94bf498432581",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKOILg/5wk0TpDYNPmzU7av2Zb2nm3gMAK3Missc2o8gKp3BheWxvYWTESpcCF8QguMM/ywIla4RLaBygwrQrp+109M1WJjDbWclL9JhDJYHEIIQibYwNbXWr9L49FU9hIOpEyD8zfR0vnDJOOAfXKysQAgHCo3NpZ8RAuKmqcO5nks1aRZT9jaDr2IUDtj4WYuTIx4EiBA+o2cUjB739Kvqw4ZnZmaSOu5bgkJgAkm54l9DOZMQI9TLmB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA8ZtDz/Zy2F2NHAcEERXjakRVaVOhlmmJWX+GnXCBk9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/steinea
+
+==================================================================
