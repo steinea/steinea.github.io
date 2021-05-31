@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Idea of the Gamer, 3
-subtitle: Making Face
+subtitle: Making Faces
 date: 2021-05-30
 ---
 
