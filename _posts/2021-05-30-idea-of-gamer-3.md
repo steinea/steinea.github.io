@@ -13,7 +13,9 @@ Phillips uses "haciendo caras," or "making faces," in combination with the "comp
 
 For my part, I want to draw Phillips' work into conversation with two key thinkers in twentieth century continental philosophy: Maurice Merleau-Ponty and Emmanuel Levinas. This is not an exercise in presenting authorities on the matter, but rather an exercise in self-organization, a bringing into conversation of the particular citations animating my thought.  I had originally intended to include Gilles Deleuze and Félix Guattari's examination of faciality in *A Thousand Plateaus* (1980) in this converstation as well, but in returning to that text I realized that I could not fit all that would need to be said with respect to it in an essay of (at least somewhat) reasonable length. So for now, I will concentrate on the two phenomenologists and attempt to tie their ideas together with Anzaldúa and Phillips, and reserve a reading of Deleuze and Guattari for a separate set of essays at a later date.
 
-### Merleau-Ponty
+<br>
+
+#### Merleau-Ponty
 
 In the preface to his *Phenomenology of Perception* (1945), Merleau-Ponty wrestles with the problem of the face---and generally, the *other*---against the backdrop of Edmund Husserl's "reduction."[^4] Let us follow Merleau-Ponty closely for a few pages.
 
@@ -37,7 +39,9 @@ Husserl is aware, however, of the "problem of others," and Merleau-Ponty, drawin
 
 In this way, Merleau-Ponty is able to dispense with "Husserl’s entire misunderstanding with his interpreters, with the existential 'dissidents,' and ultimately with himself," by demonstrating the proper function and actual functioning of the reduction---not as withdrawal, but as "wonder" (a term Merleau-Ponty gets from Husserl's assistant, Eugen Fink), a rupture that does not place the subject outside the world but rather "conceiv[es] [of] the subject as a transcendence toward the world," which conception "teach[es] us nothing except the unmotivated springing forth of the world."[^32] Radical doubt and absolute certainty are both dissolved in the instant of our "*standing in wonder* before the world."[^33] As such, through the problem of others, through the problem of the *face*, phenomenology ceases to be an "idealist philosophy" and becomes an "existential philosophy."[^34]
 
-### Levinas
+<br>
+
+#### Levinas
 
 Wherein Merleau-Ponty the alter ego presents a problem that ultimately discloses the ambiguity of our existence, for Emmanuel Levinas in *Totality and Infinity* (1961), the *face to face* is something altogether *more*, an "irreducible relation."[^35] The "notion of the face," for Levinas, "brings us to a notion of meaning prior to my *Sinngebung* [meaning-giving or sense-giving] and thus independent of my initiative and my power."[^36] The face "signifies the philosophical priority of the existent over Being" and "makes possible the description of the notion of the immediate" in the "face to face."[^37] The "immediate" here proposed is not that of "transcendence," found in "moments of liturgical, mystical elevation," nor that of "immanence," in which "every 'other' ... would vanish at the end of history."[^38] It is the "idea of infinity."[^39] The infinite immediacy of the face to face is *nontotalizable*. To integrate the "particularism of points of view" in an "impersonal spirit" is "cruelty and injustice," and also quite simply *false*.[^40] The face of the other does not only disclose our being in the world, but also a "point that is absolute with regard to history---not by amalgamating with the Other, but in speaking with him."[^41]
 
@@ -61,7 +65,9 @@ If the face in Merleau-Ponty is partially responsible for disclosing our being i
 
 This is truly a pluralism, a thought of the *pure multiple* that does not make of the finite a poor reflection of some greater reality, but rather sees in the absolute difference of true and actual finitude the opening of an infinite relation that both necessitates and is the basis for ethics as such. The face does not only express our being in the world; it expresses an *obligation*.
 
-### Phillips
+<br>
+
+#### Phillips
 
 If we continue on this ethical trajectory, however, we discover that the *obligation* of the face is punctured by questions of politics.[^62] Merleau-Ponty presents us with a compelling argument for the ambiguity of bodily existence, an argument that denies the possibility of a self-contained subject. Levinas goes well beyond Merleau-Ponty, taking the openness of the subject to the other as the basis for his pluralistic metaphysics of exteriority. But, making statements as to what being *is* does not necessarily entail action in accordance with those statements. Regardless of how readers fall on the is-ought problem (is it or is it not possible to say how things *ought* to be on how the basis of how things *are*?), in this *particular case*, the *ought* entailed by Levinas's *is* is not *in fact* the case.[^63] Even if Levinas's ontology is *correct*, many people so defined do not appear to live in accordance with their ontological constitution, honouring the "ethical inviolability" of the other. Though Levinas's ethics *is* metaphysics, it remains an ethical *program* and not a description of an actual state of affairs.[^64] To put the point bluntly: not all people *get* to have a face. According to Levinas, the face *ought* to be a given, but politically, it *is* not.
 
