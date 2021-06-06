@@ -25,7 +25,7 @@ nav ul li {
 
 a {
     text-decoration: none;
-    color: #fa5c5c;
+    color: #7b6dc2;
 }
 
 h1 {
@@ -49,7 +49,7 @@ h3 {
 /* Dark mode by Davy de Vries */
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: black;
-        color: white;
+        background-color: #0a0a0a;
+        color: #f2f2f2;
     }
 }
