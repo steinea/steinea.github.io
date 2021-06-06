@@ -5,6 +5,7 @@ body {
     float: none;
     text-align: justify;
     font-family: "Roboto", sans-serif;
+    font-weight: 100;
 }
 
 nav {
