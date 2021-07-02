@@ -86,7 +86,7 @@ Phillips notes Lara's role in the narrative as a "kick-ass avenger and brutal co
 [^1]: Hans-Georg Gadamer, *Truth and Method*, 1960, trans. revis. Joel Weinsheimer and Donald G. Marshall (London, UK: Bloomsbury Academic, 2013), 106ff.
 [^2]: I first learned about the remarkable construction of these images from Sean Zabashi, *Twitter*, June 12, 2021, <https://twitter.com/DilettanteryPod/status/1403914695128457219>. In 1960, Sigfreid Giedion proposed the essential role of firelight in the interaction with cave paintings, and in 1993 Edward Wachtel theorized how the superposition of paintings and etchings, when viewed by firelight, could produce a sort of animation or proto-movie. See Giedion, "Space Conception in Prehistoric Art," in *Explorations in Communication*, eds. Edmund Carpenter and Marshall McLuhan (Boston, MA: Beacon Press, 1960), 71-89, and Wachtel, "The First Picture Show: Cinematic Aspects of Cave Art," *Leonardo* 26, no. 2 (April 1993): 135-140. For contemporary reporting, see Zach Zorich, "Early Humans Made Animated Art," *Nautilus*, March 27, 2014, <https://nautil.us/issue/11/light/early-humans-made-animated-art>, and Jennifer Ouellette, "Archaeologists recreated three common kinds of Paleolithic cave lighting," *Ars Technica*, June 19, 2021, <https://arstechnica.com/science/2021/06/archaeologists-recreated-three-common-kinds-of-paleolithic-cave-lighting/>.
 [^3]: Michel Foucault, *The Order of Things: An Archaeology of the Human Sciences*, 1966, trans. Alan Sheridan (New York, NY: Vintage Books, 1994), 16.
-[^4]: Diego Velázquez, *Las Meninas*, 1656, <https://commons.wikimedia.org/wiki/File:Las_Meninas,_by_Diego_Vel%C3%A1zquez,_from_Prado_in_Google_Earth.jpg>, and Foucault, *The Order of Things*, 16.
+[^4]: Diego Velázquez, *Las Meninas*, 1656, <https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f>, and Foucault, *The Order of Things*, 16.
 [^5]: Foucault, *The Order of Things*, 16. This is the subject *of the painting* and the *aesthetic* subject who is a spectator of the painting.
 [^6]: Foucault, *The Order of Things*, 3.
 [^7]: Foucault, *The Order of Things*, 3.
@@ -185,7 +185,7 @@ Phillips notes Lara's role in the narrative as a "kick-ass avenger and brutal co
 [^100]: Phillips, *Gamer Trouble*, 116.
 [^101]: Phillips, *Gamer Trouble*, 116.
 [^102]: Phillips, *Gamer Trouble*, 114, and Figure 3.6, 115.
-[^103]: Phillips, *Gamer Trouble*, 115. Fans have commented on this peculiarity online. For instance, see Reddit user drachenhunter, "Just started playing portal," June 28, 2014, <https://www.reddit.com/r/Portal/comments/29db2a/just_started_playing_portal_for_the_first_time/>.
+[^103]: Phillips, *Gamer Trouble*, 115. Fans have commented on this peculiarity online. For instance, see Reddit user drachenhunter, "Just started playing portal," June 28, 2014, <https://www.reddit.com/r/Portal/comments/29db2a/>.
 [^104]: Phillips, *Gamer Trouble*, 115.
 [^105]: Phillips, *Gamer Trouble*, 120.
 [^106]: Phillips, *Gamer Trouble*, 121. Phillips receives the concept of "femme disturbance" from micha cárdenas.
