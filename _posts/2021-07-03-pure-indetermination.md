@@ -19,6 +19,8 @@ date: 2021-07-03
 
 "The absolute indetermination of the *there is*, an existing without existants, is an incessant negation, to an infinite degree, consequently an infinite limitation. Against the anarchy of the *there is* the existent is produced, a subject of what can happen, an origin and commencement, a power."[^7]
 
+<br>
+
 #### Notes
 
 [^1]: Emmanuel Levinas, *Totality and Infinity: An Essay on Exteriority*, 1961, trans. Alphonso Lingis (Pittsburgh, PA: Duquesne University Press, 1969), 131.
