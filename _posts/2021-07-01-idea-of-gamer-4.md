@@ -77,7 +77,7 @@ In *Bayonetta*, then, Phillips identifies a disruptive modulation of the diagram
 
 To round out the chapter, Phillips turns to Lara Croft, the "First Lady of gaming," and the 2013 reboot of her character and the franchise in particular.[^114] Lara's "ascension to the role of hero" in this game and its sequels is coupled with a "physical vulnerability ... more common in survival horror games," drawing *Tomb Raider* into the territory of the "body genre," as theorized by Carol Clover and Linda Williams.[^115] The machine-eye and visual field of *Tomb Raider* "take[] on the physiological aspects of the first-person camera," which "amplifies the gamer's connection to Lara, despite the placement of the camera at a distance from her body."[^116] In one particular instance of in-game trauma, "[c]olor drains from the screen and the image distorts with the pain of the impact, the controller pulsing and Lara whimpering with every step as the gamer guides her limping body around."[^117] Phillips sees this particular sequence as "exemplary of the gamic gaze" because the visual field is "complicated by a recursive set of multisensory input and output that serves to invoke a sense of copresence (and commiseration) with the avatar."[^118] The screen image is not a representation to be spectated, but an interactive scene that directly involves the player's body in its action. The diagram is manual, *physiological*, a "forward-looking, anticipatory loop that engages digital and physical bodies."[^119] Lara "exist[s] as more than an object separate unto herself"; she, like Bayonetta, "reaches back through the gamer's gaze upon her and imposes [her] own demands on their behavior."[^120] Lara's body is a locus for the modulation of the player that results in the production of the figure of gameplay, a total scene and a plurality of scenes that are, indeed, *more profound resemblances* than mere representation.
 
-Phillips notes Lara's role in the narrative as a "kick-ass avenger and brutal colonizer" like Indiana Jones, but reserves a more in depth discussion of the politics of such gameplay for the following chapter. It will be that discussion we consider in the next entry for this series.
+Phillips notes Lara's role in the narrative as a "kick-ass avenger and brutal colonizer" like Indiana Jones, but reserves a more in depth discussion of the politics of such gameplay for the following chapter.[^121] It will be that discussion we consider in the next entry for this series.
 
 <br>
 
@@ -203,3 +203,4 @@ Phillips notes Lara's role in the narrative as a "kick-ass avenger and brutal co
 [^118]: Phillips, *Gamer Trouble*, 135.
 [^119]: Phillips, *Gamer Trouble*, 135.
 [^120]: Phillips, *Gamer Trouble*, 135.
+[^121]: Phillips, *Gamer Trouble*, 135.
